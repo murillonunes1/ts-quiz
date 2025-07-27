@@ -74,7 +74,7 @@ const Index = () => {
       <section className="py-16 px-4">
         <div className="container mx-auto max-w-6xl">
           <div className="text-center mb-12">
-            <h2 className="text-3xl md:text-4xl font-bold mb-4">Choose Your Challenge</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">Choose Your Challenge!</h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
               Select a difficulty level that matches your TypeScript knowledge and start learning today!
             </p>
@@ -99,9 +99,9 @@ const Index = () => {
       <section className="py-16 px-4 bg-secondary/30">
         <div className="container mx-auto max-w-6xl">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold mb-4">Why Choose Our Platform?</h2>
+            <h2 className="text-3xl font-bold mb-4">Try our platform!</h2>
             <p className="text-lg text-muted-foreground">
-              Everything you need to become a TypeScript expert
+              Everything you need to become a TypeScript expert.
             </p>
           </div>
           
@@ -146,8 +146,9 @@ const Index = () => {
       <footer className="py-8 px-4 border-t bg-background">
         <div className="container mx-auto max-w-6xl text-center">
           <p className="text-muted-foreground">
-            Built with React, TypeScript, and TailwindCSS • Learn by doing
+            Built with React, TypeScript, and TailwindCSS.
           </p>
+          <p className="text-muted-foreground">© murillodev</p>
         </div>
       </footer>
     </div>

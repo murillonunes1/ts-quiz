@@ -25,7 +25,7 @@ export const ScoreCard = ({
     if (percentage >= 90) return { message: 'Excellent! You are a TypeScript master!', icon: '🏆' };
     if (percentage >= 70) return { message: 'Great job! You have a solid understanding!', icon: '🎉' };
     if (percentage >= 50) return { message: 'Good work! Keep practicing to improve!', icon: '👍' };
-    return { message: 'Keep learning! Practice makes perfect!', icon: '💪' };
+    return { message: 'Keep ing! Practice makes perfect!', icon: '💪' };
   };
 
   const getLevelColor = () => {
